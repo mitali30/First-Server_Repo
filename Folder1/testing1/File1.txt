@@ -1,1 +1,2 @@
 Welcome to GIT HUB Training!!!
+Added new line
